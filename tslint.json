@@ -1,0 +1,14 @@
+{
+    "rules": {
+        "whitespace": [
+            true
+        ],
+        "indent": [
+            true,
+            "spaces",
+            4
+        ],
+        "semicolon": true,
+        "quotemark": [true, "single"]
+    }
+}
